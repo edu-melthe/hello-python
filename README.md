@@ -1,2 +1,4 @@
 # hello-python
-Första Pythonprojektet 
+#Första Pythonprojektet 
+
+print("Hello, world!")
